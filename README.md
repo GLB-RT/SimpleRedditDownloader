@@ -45,6 +45,6 @@ python app.py
 
 ## Acknowledgements
 
- - [FFMPEG 💋] ([https://www.learncpp.com/](https://ffmpeg.org/))
+ - [FFMPEG 💋] ([https://ffmpeg.org/])
 
 
